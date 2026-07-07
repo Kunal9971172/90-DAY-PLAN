@@ -1,0 +1,12 @@
+# Compile binaries
+basics
+patterns
+DSA/basics
+DSA/patterns
+
+# Debug symbols
+*.dSYM/
+
+# OS generated files
+.DS_Store
+Thumbs.db
