@@ -9,6 +9,7 @@ DSA/LinearSearch
 DSA/MINMAX
 DSA/Reversing
 DSA/stl
+DSA/sort
 
 # Debug symbols
 *.dSYM/
