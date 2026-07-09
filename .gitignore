@@ -3,6 +3,12 @@ basics
 patterns
 DSA/basics
 DSA/patterns
+DSA/Alternateswap
+DSA/Duplicate
+DSA/LinearSearch
+DSA/MINMAX
+DSA/Reversing
+DSA/stl
 
 # Debug symbols
 *.dSYM/
