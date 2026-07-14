@@ -11,6 +11,7 @@ DSA/Reversing
 DSA/stl
 DSA/sort
 DSA/matrix
+DSA/matrixrowsum
 
 # Debug symbols
 *.dSYM/
